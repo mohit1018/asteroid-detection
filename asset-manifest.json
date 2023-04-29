@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/asteroid-detection/static/css/main.e26354b7.css",
-    "main.js": "/asteroid-detection/static/js/main.90af055d.js",
+    "main.js": "/asteroid-detection/static/js/main.9a876260.js",
     "static/js/787.2d48d735.chunk.js": "/asteroid-detection/static/js/787.2d48d735.chunk.js",
     "index.html": "/asteroid-detection/index.html",
     "main.e26354b7.css.map": "/asteroid-detection/static/css/main.e26354b7.css.map",
-    "main.90af055d.js.map": "/asteroid-detection/static/js/main.90af055d.js.map",
+    "main.9a876260.js.map": "/asteroid-detection/static/js/main.9a876260.js.map",
     "787.2d48d735.chunk.js.map": "/asteroid-detection/static/js/787.2d48d735.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e26354b7.css",
-    "static/js/main.90af055d.js"
+    "static/js/main.9a876260.js"
   ]
 }
